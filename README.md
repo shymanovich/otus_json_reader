@@ -1,15 +1,4 @@
 # json_reader_shymanovich
 
-*add project short description*
+Main class code is located in otus_json_reader/src/main/scala/jsonReader.scala
 
-## Accessing the library
-
-*How to access the code*
-
-## Documentation
-
-*A link to the documentation*
-
-## How to contribute
-
-*How others can contribute to the project*
