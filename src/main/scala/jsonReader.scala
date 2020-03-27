@@ -6,6 +6,7 @@ case class wineryProduction(
                  country: String,
                  id: Int,
                  points: Int,
+                 price: Int, 
                  title: String,
                  variety: String,
                  winery: String)
